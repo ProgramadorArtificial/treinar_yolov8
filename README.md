@@ -1,7 +1,7 @@
 # Treinamento YOLOv8
 Códigos para entender como o YOLOv8 funciona. Contendo treinamento, avaliações, inferências de imagens e vídeos, além de outras informações e brincadeiras para explorar alguns dos recursos disponíveis pela biblioteca e a arquitetura YOLOv8.
 
-[Vídeo com todas as explicações - Em breve]()
+[Vídeo com todas as explicações](https://youtu.be/oq0NpJh8vJY)
 
 **OBS:** A pasta “data” contem um zip com as anotações do dataset [Object Detection Dataset - Wind Turbines!](https://www.kaggle.com/datasets/kylegraupe/wind-turbine-image-dataset-for-computer-vision) que foram alteradas pelo autor deste repositório para minimizar os problemas presentes nas anotações originais. As imagens podem ser baixadas diretamente da página oficial do dataset no [Kaggle](https://www.kaggle.com/datasets/kylegraupe/wind-turbine-image-dataset-for-computer-vision).
 
